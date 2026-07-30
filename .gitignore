@@ -1,0 +1,10 @@
+include/secrets.h
+.pio/
+
+# Arquivos sidecar do macOS (disco externo exFAT)
+._*
+.DS_Store
+
+# Cache do clangd e da IDE (local, não é código)
+.cache/
+.idea/
