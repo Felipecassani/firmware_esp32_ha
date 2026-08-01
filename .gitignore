@@ -8,3 +8,4 @@ include/secrets.h
 # Cache do clangd e da IDE (local, não é código)
 .cache/
 .idea/
+compile_commands.json
